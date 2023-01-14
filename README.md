@@ -1,7 +1,7 @@
 # boto3-s3-master
 
 
-## Docker Compose  
+## Docker Run  
 ```
 docker-compose up --build
 ```
